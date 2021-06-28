@@ -1,5 +1,5 @@
 ---
-title:  "자료구조"
+title: "자료구조"
 excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 
 categories:
@@ -8,11 +8,13 @@ tags:
   - 자료구조
 last_modified_at: 2021-06-28
 ---
+
 ```java
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+
 GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
 GitHub Blog 서비스의 이름은 Pages이다.
 
