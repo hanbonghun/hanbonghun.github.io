@@ -7,6 +7,7 @@ categories:
 tags:
   - 자료구조
 last_modified_at: 2021-06-28
+comments: true
 ---
 
 ```java
